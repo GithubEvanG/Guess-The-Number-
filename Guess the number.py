@@ -42,7 +42,7 @@ Dice=PhotoImage(file="../../TkinterProjects/General Exercises/die.png")
 
 lbl1 = ttk.Label(window, text=' GUESS THE NUMBER !!!', cursor="dot" , font=( 'Arial',20, 'bold'))
 lbl1.pack()
-lbl2 = ttk.Label(window, text=' in this game you will try to find a secret number ', font=( 'Arial',10, 'bold'))
+lbl2 = ttk.Label(window, text=' In this game you will try to find a secret number ', font=( 'Arial',10, 'bold'))
 lbl2.pack()
 lbl3 = ttk.Label(window, text=' that is randomly chosen every round ', font=( 'Arial',10, 'bold'))
 lbl3.pack()
